@@ -2,8 +2,8 @@ import {
   TokenURIUpdated as TokenURIUpdatedEvent,
   TokenMetadataURIUpdated as TokenMetadataURIUpdatedEvent,
   Transfer as TransferEvent,
-  Token as TokenContract,
-} from "../generated/Token/Token"
+  TestSubgraph as TokenContract,
+} from "../generated/TestSubgraph/TestSubgraph"
 
 import { Token, User } from "../generated/schema"
 
