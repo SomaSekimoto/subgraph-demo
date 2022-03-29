@@ -1,6 +1,6 @@
 # About this
 
-This repo is just for demo to create subgraph with <a href="https://thegraph.com/en/" target="_blank">The Graph</a>.
+This repo is just for demo to create subgraph with <a href="https://thegraph.com/en/" target="_blank" rel="noopener">The Graph</a>.
 
 I've just read the following article and made it to deploy my subgraph on Rinkeby Network
 
